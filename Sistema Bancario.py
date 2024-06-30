@@ -12,7 +12,6 @@ Escolha as opções abaixo;
 
 saldo = 0
 limite = 500
-extrato = 0
 numero_de_saque = 0
 limite_de_saque = 3
 Texto_Extrato = "EXTRATO"
