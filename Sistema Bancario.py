@@ -67,7 +67,7 @@ while True:
          break
     else:
         print(Texto_Atencao.center(50, "."))
-        print(Texto_Ivalido3.center(50, "."))
+        print(Texto_Ivalido.center(50, "."))
 
 
 
